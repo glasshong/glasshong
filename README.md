@@ -4,7 +4,7 @@
 
 > 🤔 **어떻게 스포츠 현장에 인공지능을 잘 활용할 수 있을까?**
 
-이것에 대해 고민하며 Multimodal, 경량화에 대해 공부 중입니다.
+이것에 대해 고민하며 Multimodal에 대해 공부 중입니다.
 
 ### Experiences
 ✅ 고려대학교 스포츠통계 동아리 [PAINS](https://blog.naver.com/painsports) (2021.08 ~ 2022.11)
